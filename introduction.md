@@ -1,9 +1,3 @@
-Yes. **“Introduction to AI Foundations”** is the right page.
-
-It should explain the framework’s purpose before readers encounter individual constructs like Origin. This is the page that tells them **what kind of research program AI Foundations is** and how to interpret the evaluations.
-
-I’d make this a short foundational page, not a manifesto.
-
 # Introduction to AI Foundations
 
 AI Foundations seeks to bind independently recoverable truths about human–AI systems into a compact formal framework of defined constructs, relations, and testable propositions.
@@ -28,12 +22,12 @@ The comparison helps determine what the definition is doing.
 
 A successful definition may:
 
-* preserve an independently recoverable judgment;
-* make an implicit distinction explicit;
-* repair inconsistent or underspecified reasoning;
-* differentiate cases that would otherwise be conflated;
-* increase precision;
-* compress a longer reasoning pattern into a reusable formal relation.
+- preserve an independently recoverable judgment;
+- make an implicit distinction explicit;
+- repair inconsistent or underspecified reasoning;
+- differentiate cases that would otherwise be conflated;
+- increase precision;
+- compress a longer reasoning pattern into a reusable formal relation.
 
 A definition may also distort or skew the underlying judgment. That possibility is part of the evaluation rather than something excluded in advance.
 
